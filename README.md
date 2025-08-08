@@ -14,7 +14,7 @@ This project was built as a personal endeavor to practice backend development, R
 ---
 
 ## 📦 Tech Stack
-- Java 17
+- Java 24
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL
